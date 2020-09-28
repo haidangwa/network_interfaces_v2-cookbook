@@ -1,3 +1,8 @@
+# 2.12.0
+* [Forked](https://github.com/haidangwa/network_interfaces_v2-cookbook) from [Target](https://github.com/target/network_interfaces_v2-cookbook)
+* Removes obsolete `kernal_module` cookbook dependency: `kernel_module`
+* Sets metadata to support only Chef Infra Client `> 15.0`
+
 # 2.11.0
 * Add ability to define array of pre/up/post and pre/down/post commands.
 

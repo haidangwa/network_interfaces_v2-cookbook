@@ -186,6 +186,7 @@ License and Authors
 ===================
 
 Author:: Jacob McCann (<jacob.mccann2@target.com>)
+Contributor:: Dang H. Nguyen (<haidangwa@gmail.com>)
 
 Based on work from https://github.com/redguide/network_interfaces
 
